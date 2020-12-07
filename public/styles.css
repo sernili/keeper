@@ -50,6 +50,11 @@ footer p {
   font-weight: 700;
   margin-bottom: 6px;
 }
+
+.title-input {
+  font-weight: 700;
+}
+
 .note p {
   font-size: 1.1em;
   margin-bottom: 10px;
